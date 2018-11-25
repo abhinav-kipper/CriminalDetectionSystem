@@ -1,5 +1,5 @@
 # CriminalDetectionSystem
-Netbeans Projec
+Netbeans Project
 Programming  Language - JAVA
 Data Storage - SQL server
 GUI - AWT & Swings
